@@ -1,10 +1,10 @@
 import React from 'react'
 
-import Section1 from './components/section1'
-import Navbar from './components/navbar'
+import Section1 from './components/Section1'
+import Navbar from './components/Navbar'
 import Section2 from './components/Section2'
 import Footer from './components/Footer'
-import Contact from './components/contact'
+import Contact from './components/Contact'
 
 const App = () => {
   return (
