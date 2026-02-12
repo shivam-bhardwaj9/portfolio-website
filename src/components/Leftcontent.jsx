@@ -1,7 +1,7 @@
 import React from 'react'
 import Section2 from './Section2'
 
-const Leftcontent = () => {
+const LeftContent = () => {
 
 return (
     <div>
@@ -14,4 +14,4 @@ return (
 )
 }
 
-export default Leftcontent
+export default LeftContent
