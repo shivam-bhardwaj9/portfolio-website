@@ -1,9 +1,11 @@
 import React from 'react'
+import logo from '../assets/logo.png'
+
 
 const Navbar = () => {
   return (
     <div className='bg-white opacity-80 fixed h-30 top-0 w-full flex items-center justify-between px-10 z-20'>
-        <a href="/"><img src="src/assets/logo.png" alt="logo" className='h-15 pl-10 object-cover' /></a>
+        <a href="/"><img src={logo} alt="logo" className='h-15 pl-10 object-cover' /></a>
             <ul className='flex gap-20 text-black text-lg p-10 relative'>
                 <li className='font-bold uppercase hover:text-gray-500 '><a href="/">home</a></li>
                 <li className='font-bold uppercase hover:text-gray-500'><a href="#skills">skills</a></li>
