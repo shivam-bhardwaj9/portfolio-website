@@ -1,6 +1,6 @@
 import React from 'react'
 import LeftContent from './LeftContent'
-import video from '.src/assets/asset-ed557b88.mp4'
+import video from '../assets/asset-ed557b88.mp4'
 
 
 const Section1 = () => {
