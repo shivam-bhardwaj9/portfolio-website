@@ -1,4 +1,4 @@
-import React, { use, useEffect, useState } from 'react'
+import React from 'react'
 import Section2 from './Section2'
 
 const LeftContent = () => {
