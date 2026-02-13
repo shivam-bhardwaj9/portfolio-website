@@ -6,7 +6,8 @@ import Section2 from './components/Section2'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
 import About from './components/About'
-import Projects from './components/Projects '
+import Project from './components/Project'
+
 
 const App = () => {
   return (
@@ -22,7 +23,7 @@ const App = () => {
         <Section2 />
       </div>
       <div>
-        <Projects />
+        <Project />
       </div>
       <div>
         <Contact />
