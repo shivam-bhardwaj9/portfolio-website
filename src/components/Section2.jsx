@@ -2,7 +2,7 @@ import React from 'react'
 
 const Section2 = () => {
     return (
-        <div className='bg-gray-200 h-screen pt-50 px-40'>
+        <div className='bg-gray-200 h-screen pt-50 px-40' id='skills'>
             <div>
                 <h1 className='text-4xl font-bold text-black p-10 uppercase'>skills</h1>
                 <h2 className='text-xl font-semibold text-black pl-10'>Web Development</h2>

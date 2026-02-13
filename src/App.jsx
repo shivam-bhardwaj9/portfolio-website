@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Section2 from './components/Section2'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
+import About from './components/About'
 
 const App = () => {
   return (
@@ -12,6 +13,9 @@ const App = () => {
       <div>
         <Navbar />
         <Section1 />
+      </div>
+      <div>
+        <About />
       </div>
       <div>
         <Section2 />
